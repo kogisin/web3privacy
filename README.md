@@ -2,6 +2,8 @@
 
 ![W3P Community header image](./static-assets/w3p-database-header.png)
 
+We build a front-end and expanded work with Decentralised privacy database through Explorer aka Dashboard for privacy: [data repo](https://github.com/web3privacy/explorer-data) + [web](http://explorer.web3privacy.info)
+
 ⚠️ **Please advise!** ⚠️ The following database of protocols, projects and products are part of an agostics research project, they are listed for research purposes and to map the privacy ecosystem and industry within web3. W3PN does not endorse or validate any of the things listed here, use them at your own risk and be mindful of projects still in development or have not completed some form of third-party security audit. **Don't trust, verify.**
 
 Feel free to contribute to this database via forking and submitting a PR via Github. 
@@ -41,7 +43,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| [Labyrinth](http://labyrinth.ac/) | A Multichain Modular Privacy Framework with a Decentralized Compliance Network | - | [Private Testnet](https://testnet.app.labyrinth.ac/) | EVM chains | - | [Docs](https://labyrinth.gitbook.io/) | - |
+| [Veilnyx](http://veilnyx.com/) | A Multichain Modular Privacy Framework with a Decentralized Compliance Network | - | [Private Testnet](https://app.veilnyx.com/discover) | EVM chains | - | [Docs](https://docs.veilnyx.com/) | - |
 | [Firn Protocol](https://firn.cash) | Firn is the first-ever zero-knowledge privacy platform in the _account-based_ model, and introduces pluggable, flexible privacy to Ethereum-based chains. ✨️**ZK** | [GitHub](https://github.com/firnprotocol) | live, june 2022 | Ethereum | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) |
 | [Silent protocol](https://www.silentprotocol.org)  | Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.  | - | TBD | Ethereum | anon | - | - |
 | [Sienna Network](https://sienna.network) | Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent  | [Github](https://github.com/SiennaNetwork) | Q2 2023 | Secret Network | anon | [Docs](https://docs.sienna.network/main/) | [Certik](https://sienna.network/static/documents/REP-Sienna_Wrapped-19_03_2021.pdf) / [Certik](https://sienna.network/static/documents/REP-Sienna_Vesting-28_04_2021.pdf) / [Halborn](https://sienna.network/static/documents/Rewards_V3_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn.pdf) / [Certik](https://sienna.network/static/documents/SiennaSwap---AMM-Report.pdf) / [Halborn](https://sienna.network/static/documents/AMM_Protocol_CosmWasm_Smart_Contract_Security_Audit_Halborn.pdf) / [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_CosmWasm_Smart_Contract_Report_Halborn.pdf) / [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_Updated_Code_CosmWasm_Smart_Contract.pdf) / [Halborn](https://sienna.network/static/documents/Launchpad-IDO.pdf) / [Halborn](https://sienna.network/static/documents/Lending-and-Launchpad-Updated-Code.pdf) / [Halborn](https://sienna.network/static/documents/Rewards-Bonding-Update.pdf) |
@@ -60,7 +62,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | Decentralized Anonymous Payment Systems ✨️**ZK** | - | TBD | - | anon | [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) |
 | [Diva](https://www.diva.exchange/en/) | Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE | [Github](https://github.com/diva-exchange) | TBD | - | [Public](https://www.diva.exchange/en/team-and-contact/) | [Docs](https://docs.lightprotocol.com) | - | - |
 | [BasicSwap](https://basicswapdex.com) | Private Cross-Chain DEX | [Github](https://github.com/tecnovert/basicswap/blob/master/doc/install.md) | beta, December 2022 | SMSG | [anon](https://particl.io/) | - | - |
-| [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | coming in 2023 | Near, Ethereum, Solana, Kusama, Azero | anon | - | - |
+| [Common](https://common.fi) | Easy-to-use mobile and web app for on-chain privacy, with shielded accounts and shielded yield features. | - | launching spring 2024 | multichain, EVM, Aleph Zero | [Public](https://alephzero.org/the-team) (Aleph Zero team) | [Docs](https://docs.common.fi/knowledge-base) | [Kudelski Security](https://common.fi/blog/common-mobile-security-audit/) [zkSecurity](https://reports.zksecurity.xyz/reports/aleph-zero-shielder/) |
 | [Hurricane Money](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | [Github](https://github.com/hurricanemoney) | TBD | Terra, Near | anon | - | - |
 | [BlackBox](https://blackbox.cash) | collection of tools allowing you send & receive SCRT anonymously | [Github](https://github.com/TriviumNode) | TBD | Secret Network | anon | - | - |
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | [Public](https://hinkal.pro/#section-team) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) |
@@ -95,7 +97,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | [GitHub](https://github.com/zcash/zcash) | live, October 2016 | Zcash | [Public](https://electriccoin.co) |
 | [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | live, April 2014 | Monero | anon |
-| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Gitea](https://git.wownero.com/wownero/wownero) | live, April 2018 | Wownero | anon |
+| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Codeberg](https://codeberg.org/wownero/wownero) | live, April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | Mainnet, 20th April 2023 | Iron Fish | [Public](https://ironfish.network/community/our-community) |
 | [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | live, December 2020 | [mobilecoin](https://mobilecoin.com/ecosystem) | [Public](https://mobilecoin.com/about-us) |
 | [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | live, January 2019 | Mimblewimble | anon |
@@ -129,6 +131,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | [GitHub](https://github.com/nevocoin/nevocoin/) | - | - | anon |
 | [Nerva](https://nerva.one) |  NERVA (XNV) is a private and secure cryptocurrency that you can mine on your computer's CPU. It's GPU and ASIC resistant and tries to stay true to 1 CPU = 1 VOTE vision | [Github](https://github.com/nerva-project/nerva) | live | Nerva | anon |
 | [DragonX](https://dragonx.is) |  DragonX is a ZK-SNARKS based Crypto Currency with default privacy and built-in instant messaging. | [Git](https://git.hush.is/hush) | live | - | anon |
+| [WORM](https://worm.cx) | WORM is a scarce cryptoasset rooted in private ETH destruction using EIP-7503 | [GitHub](https://github.com/worm-privacy) | testnet | Ethereum | [Zero Savvy](https://zerosavvy.xyz) |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -136,6 +139,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | ------------- | ------------- |------------- |------------- | ----------- |
 | [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | testnet, february 2023 | No |
 | [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
+| [Aleph Zero](https://alephzero.org) | Privacy-enhancing blockchain and a shielder network deployed on multiple EVM networks. Client-side ZK privacy with proofs generated in less than a second. | [Github](https://github.com/Cardinal-Cryptography) | mainnet | AZERO | [Public](https://alephzero.org/the-team) |
 | [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
 | [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | mainnet, 2020 | SCRT |
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
@@ -171,7 +175,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Scala](https://scalaproject.io) | an open-source cryptocurrency. Distributed wealth for all devices  | [GitHub](https://github.com/scala-network/) | testnet, mainnet coming in 2023 | XLA
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Arcana](https://arcana.network) | Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform.  | [Docs](https://docs.beta.arcana.network) | mainnet, February 2023 | XAR |
-| [Namada](https://namada.net) | Interchain Privacy  | [Specs](https://specs.namada.net) | testnet, January 2023 | no |
+| [Namada](https://namada.net) | L1 zk payments infrastructure offering composable asset-agnostic shielding to chains, apps, and services | [GitHub](https://github.com/namada-net); [Docs](https://docs.namada.net/); [Onboarding](https://docs.namada.net) | Mainnet (Dec 2024) | [NAM](https://www.coingecko.com/en/coins/namada#markets) |
 | [TomoChainP](https://tomochain.com/tomop) | a privacy protocols developed on TomoChain and designed to create safe and untraceable transactions  | [GitHub](https://github.com/tomochain/tomop) | TBD | TOMO |
 | [burstIQ](https://burstiq.com) | Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences. | - | TBD | BIQ |
 | [Lit](https://litprotocol.com) | Decentralized Cryptography for Access Control, Compute, and Encryption | [Docs](https://developer.litprotocol.com) | TBD | LIT |
@@ -181,7 +185,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-network/core) [Docs](https://calimero-network.github.io)| live | no |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
 | [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | - | no |
-| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
+| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-ethereum/maci) | TBD | no |
 | [Threshold](https://threshold.network/build/taco) | A decentralized threshold cryptography network with programmable access control | [GitHub](https://github.com/nucypher/) | live | T |
 | [Anytype](https://anytype.io) | the digital assets and communities you create are truly yours. | [GitHub](https://github.com/anyproto) | TBD | no |
 | [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
@@ -218,6 +222,9 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTLabs) | anon | - | - |
 | [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | [Github](https://github.com/tari-project) | - | - | - |
 | [Radicle](https://radicle.xyz) | open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
+| [Spasm](https://spasm.network) | The most advanced generation of decentralized social media with a strong focus on privacy. | [Github](https://github.com/degenrocket/spasm) [Docs](https://docs.spasm.network) | live | - | - |
+| [Miden](https://miden.xyz/) | Miden is the edge blockchain by pushing execution and state to the edge, on the client side, overcomes the limitations of scalability, privacy and safety | [Github](https://github.com/0xMiden) | beta testnet, July 2025| - | - |
+| [Paladin](https://www.paladinprivacy.org/) | Programmable Privacy for EVM gives enterprises control of sensitive information without compromising transparency or scalability | [Github](https://github.com/LF-Decentralized-Trust-labs/paladin) | Pilot deployments in tokenized money projects | No | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -266,8 +273,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Phala Network](https://phala.network/) | TEE-based Permissionless Computing Protocol. | [Github](https://github.com/Phala-Network) | live | multichain | [Public](https://www.linkedin.com/company/phala-network/mycompany/) |
-| [Aleph Zero](https://alephzero.org) | Privacy-enhancing public blockchain with instant finality. | [Github](https://github.com/aleph-zero-foundation) | mainnet | Aleph | [Public](https://alephzero.org/the-team) |
+| [Phala Network](https://phala.com/) | TEE-based Permissionless Computing Protocol. | [Github](https://github.com/Phala-Network) | live | multichain | [Public](https://www.linkedin.com/company/phala-network/mycompany/) |
 | [ARPA](https://www.arpanetwork.io/en-US) | Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc. | [Github](https://github.com/ARPA-Network) | mainnet, Q2 2023 | multichain | anon |
 | [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications. | [Github](https://github.com/phoenixglobal) | testnet | multichain | anon |
 | [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | multipurpose | [Public](https://www.privasea.tech/about) |
@@ -325,7 +331,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Lokinet](https://lokinet.org) | a VPN tunnel that uses onion routing as the transport | [Github](https://github.com/oxen-io/lokinet) | live | multichain | no | anon |
 | [Sentinel](https://sentinel.co) | A global network of autonomous dVPN applications that enable private and censorship resistant internet access | [Github](https://github.com/sentinel-official) | live | Cosmos | [yes](https://coinmarketcap.com/currencies/sentinel/) | anon |
 | [IVPN](https://www.ivpn.net/) | IVPN keeps no logs and no customer accounts, is an open source VPN provider using WireGuard or OpenVPN. Can pay for VPN connection with BTC, BTC lightning or XMR and can get 'subscriptions' that last 1 week/month/year or more | [Github](https://github.com/ivpn) | live | no chain | no | [Public](https://www.ivpn.net/team/) |
-| [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check their Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | [Github](https://github.com/mullvad). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. |  live | no chain | no | [Public](https://mullvad.net/en/about) |
+| [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check their Privacy Policy and history). Mullvad VPN could be paid by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | [Github](https://github.com/mullvad). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. |  live | no chain | no | [Public](https://mullvad.net/en/about) |
 | [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | [Github](https://github.com/ProtonVPN) |  live | no chain | no | [Public](https://protonvpn.com/about) |
 | [Solar dVPN](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service | [Github](https://github.com/solarlabsteam/) | - | - | - |
 | [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
@@ -391,6 +397,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [HeyAnon](https://www.heyanoun.xyz) | Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK** | - | - | - | - | 
 | [LunarDAO](https://lunardao.net) | DAO fostering R&D and investments within Lunarpunk movement |  [GitHub](https://github.com/lunardao/dao) | - | - | - |
 | [BeamX DAO](https://BeamXDAO.org) | Decentralized and confidential governance for the Beam Ecosystem | [Github](https://github.com/BeamMW/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
+| [ZecHub DAO](https://zechub.wiki/dao) | Open source educational platform where community members can work together on creating, validating, & promoting content that supports the Zcash ecosystem. | [Github](https://github.com/ZecHub/zechub) | Active | [Zcash](https://x.com/Zcash) | [Members](https://zechub.wiki/dao) |
 
 ## Bridge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Bridge.png?raw=true)
@@ -402,7 +409,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Blockbend](https://blockblend.io) | Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service. | - | - | - | - |
 | [Secret Bridge](https://bridge.scrt.network) | bridge to the Secret Network | - | - | - | - |
 | [Shade bridge](https://app.shadeprotocol.io/bridge) | an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. | [Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge) | - | - | - |
-| [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. | [0xMonero](https://0xmonero.com/) | 0xMonero is a multi-contract, multi-chain, privacy focused project. | [GitHub](https://github.com/0xMonero) | - | [anon](https://t.me/Monero0xMR) |
+| [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer built by 0xMonero. | [0xMonero](https://0xmonero.com/) | 0xMonero is a multi-contract, multi-chain, privacy focused project. | [GitHub](https://github.com/0xMonero) | - | [anon](https://t.me/Monero0xMR) |
 | [Carrier](https://www.carrier.so) | A powerful token and NFT bridge for Web3 natives | [Docs](https://docs.carrier.so/introduction/about) | - | - | - |
 | [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
 | [BlockBlend](https://blockblend.io) | anonymous cross-chain decentralized services. Stake, farm, blend and send | [GitHub](https://docs.blockblend.io/utilities/bridge) | - | - | - | - |
@@ -547,7 +554,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | [Docs](https://docs.fractalframework.xyz/home) | - | - | - |
 | [Chimp Exchange](https://ten.chimp.exchange/#/swap) | Fully encrypted DEX | [Docs](https://docs.chimp.exchange/chimp-on-ten) | testnet | Ten protocol | - |
 | [fluidkey](https://www.fluidkey.com/) | Receive and manage funds onchain without publicly linking them to you. | [Docs](https://docs.fluidkey.com/) | live | EVM | public |
-
+| [Qash](https://qash.finance/) | End-to-end private global payroll solution | [Docs](https://app.qash.finance/docs) | testnet beta | Miden | - |
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
@@ -670,7 +677,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | [Github](https://github.com/automata-network/conveyor-sdk) | - | - | - |
 | [ZKP2P](https://www.zkp2p.xyz) | Via zk proofs of payment confirmation emails, use [zk-email](https://prove.email) to on and off ramp directly from Venmo, UPI, and Garanti to crypto, without trusting an intermediary. | [Github](https://github.com/zkp2p/zk-p2p/) | - | - | - |
 | [Particl](https://particl.io/marketplace) | The only marketplace for private and unrestricted e-commerce. | [Github](https://github.com/particl) | - | - | - |
-| [AcceptedHere](https://acceptedhere.io/) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
 | [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
 | [Bitcoin Bookmarks](https://bitcoinbookmarks.com/) | directory for premium crypto websites sorted by quality. | [Github](https://github.com/BitcoinBookmarks/BitcoinBookmarks.com)  | - | - | - |
 | [Monerica](https://monerica.com/) | directory for the Monero circular economy. | [Github](https://github.com/monerica-project/monerica) | - | - | - | - |
@@ -745,7 +751,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [BlockChair](https://blockchair.com) | the most private blockchain search engine | [Github](https://github.com/Blockchair) [Docs](https://blockchair.com/api/docs)  | live | - | -  |
 | [ANS](https://www.aleonames.id) | Where domain naming meets privacy  | [Docs](https://docs.aleonames.id/developer-guide/integrate-ans-into-frontend)  | live | - | -  |
 | [Flux](https://fluxsocial.io) | a fully distributed, human-centred platform that facilitates social coordination with greater privacy, agency, and flexibility. | [Github](https://github.com/fluxsocial/)  | - | - | -  |
-| [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero direcly within your stream as a creator. | - | live | - | public | 
+| [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero directly within your stream as a creator. | - | live | - | public | 
 
 
 ## Sunset projects archive
@@ -817,3 +823,5 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ## Donate
 
 Support independent research on the Web3 privacy - [find all our current donation addresses within our Docs](https://docs.web3privacy.info/get-involved/donate/)
+
+[🔼Back to top!](#contents)

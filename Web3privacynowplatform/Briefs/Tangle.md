@@ -1,4 +1,4 @@
-*Basic info**
+*Basic info*
 
  | Request  | Data point | 
  | ------------- | ------------- |
@@ -67,7 +67,7 @@
  | **Privacy policy** | https://www.webb.tools/terms-and-conditions |
  | **Collected data**  | TBD |
  | **Data sharing** | N/a, beyond standard blockchain standards |
- | **Sign-in requirments** | Webb Protocol can be interacted with or deployed on different blockchains. |
+ | **Sign-in requirements** | Webb Protocol can be interacted with or deployed on different blockchains. |
  | **Identity integrations** | Not currently. |
 
  **Security**
@@ -79,7 +79,7 @@
  | **Third-parties dependency** | specify |
  | **Technical dependency** | Substrate, EVM,  |
  | **Have you been audited by a third-party** | Yes |
- | **What company audited** | Veridise) |
+ | **What company audited** | Veridise |
  | **When you were audited** | 10/11/23 |
  | **Add links to the audits** | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) |
 

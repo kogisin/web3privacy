@@ -25,7 +25,7 @@ Privacy is a top priority in the era of web, an essential human right. Web3priva
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
 
 - **Scoring mechanism**
-We'll research and develop a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. The goal is to collectively raise the maturity of privacy products & services accross all layers of the technology stack. 
+We'll research and develop a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experience of active members from both solar and lunarpunk communities. The goal is to collectively raise the maturity of privacy products & services across all layers of the technology stack. 
 
 In parallel to the top-down scorecard method, we'll develop and implement a bottom-up community scoring platform too (think of Metacritic exters + users scorings). We believe that at the end of the day it's the users who have to become the real watchdogs of the industry, signaling about flaws and shortcomings of solutions (like Secret Network's recent critical bug).
 
@@ -80,7 +80,7 @@ _Practical guides will match_
 The next product release will include 
 - **community feedback **(voting for the projects, writing user-feedback etc) 
 - **leaderboard** (categories) to motivate companies compete with each other for better privacy preservation.
-- **incidents dabatse**: [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/) example
+- **incidents database**: [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/) example
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2010.34.02.png?raw=true)
 
@@ -111,7 +111,7 @@ _Total_: 7 FTE + advisor community
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2014.28.41.png?raw=true)
 
 # Where we are now
-0. Homework has been done: 350+ projects in the public [database](https://github.com/Msiusko/web3privacy), ZK projects [database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape), Market research [outlook](https://github.com/Msiusko/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) 
+0. Homework has been done: 350+ projects in the public [database](https://github.com/Msiusko/web3privacy), ZK projects [database](https://github.com/web3privacy/web3privacy/tree/main/Market%20overview/ZK%20privacy%20landscape), Market research [outlook](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) 
 1. Searching for grants: [contact](http://twitter.com/nicksvyaznoy)
 2. BUIDLing with the extended team.
 
@@ -122,9 +122,9 @@ _Total_: 7 FTE + advisor community
 **PR**
 - Strong contribution to the general security level of the new web
 - Positive industry image (counter-crime & scam argument)
-- Non-web3 literate but privacy conscious user education and onboarding (increasing accessibilty and real-world use cases of decentralised technologies)
+- Non-web3 literate but privacy conscious user education and onboarding (increasing accessibility and real-world use cases of decentralised technologies)
 
-**Scoring mechanism**: aplicability to ecosystem's projects
+**Scoring mechanism**: applicability to ecosystem's projects
 
 **Builders empowerment**: builder-ready educational materials & tools 
 

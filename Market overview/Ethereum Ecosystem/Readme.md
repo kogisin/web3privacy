@@ -102,7 +102,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Lit](https://litprotocol.com) | Decentralized Cryptography for Access Control, Compute, and Encryption | [Docs](https://developer.litprotocol.com) | TBD | LIT |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
-| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
+| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-ethereum/maci) | TBD | no |
 | [Threshold](https://threshold.network/build/taco) | A decentralized threshold cryptography network with programmable access control | [GitHub](https://github.com/nucypher) | live | T |
 | [Comit Network](https://comit.network/) | COMIT is an open protocol facilitating trustless cross-blockchain applications, connecting all blockchains without adding yet another. Working on [BTC-XMR atomic swaps](https://github.com/comit-network/xmr-btc-swap) as well as various libraries and clients. | [Github](https://github.com/comit-network) | TBD | no |
 | [Asterizm](https://asterizm.io) | Plug and play blockchain interoperability solution for enterprises, web3 protocols and fintech with privacy at the core | ([GitHub](https://github.com/Asterizm-Protocol)) | - | - | - | - |
@@ -228,7 +228,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Anrk Verify](https://www.ankr.com/blog/ankr-verify-product-launched-to-provide-blockchains-with-readymade-user-id-solution/?page=1) | Provide Blockchains With Readymade User ID Solution | ([GitHub](https://github.com/Ankr-network/)) | - | - | - |
 | [Neonyx](https://neonyx.io) | DID + Flexible social platform | ([GitHub](https://github.com/neonyxhub)) | - | - | - |
 | [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
-| [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/overview/carv-intro)) | - | - | - |
+| [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/svm-ai-agentic-chain/introduction)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -447,6 +447,20 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 - [EIP-7503: Zero-Knowledge Wormholes](https://eips.ethereum.org/EIPS/eip-7503)
 - [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273)
 - [Lightweight Authentication of Web Data via Garble-Then-Prove](https://eprint.iacr.org/2023/964)
+- [Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352337)
+- [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180)
+- [A privacy-preserving scheme with multi-level regulation compliance for blockchain](https://www.nature.com/articles/s41598-023-50209-x)
+- [Zero-knowledge proof framework for privacy-preserving financial compliance](https://science.lpnu.ua/sites/default/files/journal-paper/2025/mar/38617/2025121342354.pdf)
+- [ZEBRA: Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi](https://api.semanticscholar.org/CorpusID:252570814)
+- [REGKYC: Supporting Privacy and Compliance Enforcement for KYC in Blockchains](https://api.semanticscholar.org/CorpusID:277662509)
+- [How to Design a Compliant, Privacy-Preserving Fiat Stablecoin Via Zero-Knowledge Proofs](https://ssrn.com/abstract=4331465)
+- [SeDe: Balancing Blockchain Privacy and Regulatory Compliance by Selective De-Anonymization](https://arxiv.org/abs/2311.08167)
+- [zkMixer: A Configurable Zero-Knowledge Mixer with Proof of Innocence and Anti-Money Laundering Consensus Protocols](https://arxiv.org/abs/2503.14729)
+- [Public Verifiable Privacy-Preserving Multi-Party Computation on Blockchain](https://ieeexplore.ieee.org/document/10671422)
+- [BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs](https://eprint.iacr.org/2019/1354)
+- [ZEXE: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/document/9152634)
+- [Jigsaw: Doubly Private Smart Contracts](https://eprint.iacr.org/2025/1147.pdf)
+- [Privacy-Protecting Regulatory Solutions Using Zero-Knowledge Proofs](https://api.a16zcrypto.com/wp-content/uploads/2022/11/ZKPs-and-Regulatory-Compliant-Privacy.pdf)
 
 ## Privacy & Scaling Explorations
 this part will be restructured later on by categories

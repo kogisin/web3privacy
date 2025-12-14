@@ -63,19 +63,19 @@ How it works:
 | **Technical specialisation**  | ZK, Smart Contract | 
 | **Specify technology readiness**  | infra: mainnet, apps: full production | 
 | **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Encryption method**  | if applicable: specify | 
 
 **Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
-| **Complience**  | yes |
+| **Compliance**  | yes |
 | **KYC**  | no |
 | **Privacy policy** | add link |
 | **Collected data**  | none |
 | **Data sharing** | none |
-| **Sign-in requirments** | none |
-| **Identity integrations** | Users can link their ENS and Unstoppable Domains to their private 0zk address. There is no privacy degredation from this. |
+| **Sign-in requirements** | none |
+| **Identity integrations** | Users can link their ENS and Unstoppable Domains to their private 0zk address. There is no privacy degradation from this. |
 
 **Security**
 | Request  | Data point | 
