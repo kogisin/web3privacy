@@ -70,7 +70,7 @@
 - [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
 - [DragonX](https://dragonx.is) - DragonX is the first Hush Smart Chain using the RandomX mining algo for CPU mining and offers private by default z-z transactions ✨️**ZK** ([Gitea](https://git.hush.is/dragonx/dragonx)) 
 - [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin)) 
-- [Hush](https://hush.is) - Hush is private by default currency with enforced z-z transactions ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush3)) 
+- [Hush](https://hush.is) - Hush is a private by default currency with enforced z-z transactions ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush3)) 
 - [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3 ([GitHub](https://github.com/iron-fish)) 
 - [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast ([GitHub](https://github.com/mobilecoinofficial))  
 - [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure ([GitHub](https://github.com/monero-ecosystem)) 
@@ -87,7 +87,7 @@
 - [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain ([GitHub](https://github.com/EspressoSystems/))
 - [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities ([GitHub](https://github.com/findoranetwork))
 - [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world ([GitHub](https://github.com/suterusu-team))
-- [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions ([GitHub](https://github.com/Concordium))
+- [Concordium](https://concordium.com) - A compliance-ready blockchain backed by science that enables private and public transactions ([GitHub](https://github.com/Concordium))
 - [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** ([GitHub](https://github.com/horizenofficial))
 - [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** ([GitHub](https://github.com/mystikonetwork)) 
 - [Nulink](https://www.nulink.org) - Privacy-preserving technology for decentralized applications ([GitHub](https://github.com/NuLink-network)) 
@@ -95,10 +95,10 @@
 - [Raze Network](https://www.raze.network) - Raze Network is a EVM-compatible Privacy Layer on Multichains ([GitHub](https://github.com/Raze-Net)) 
 - [Light Protocol](https://www.lightprotocol.com) - The Privacy Layer for Solana ([Docs](https://docs.lightprotocol.com)) 
 - [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization ([Docs](https://partisiablockchain.gitlab.io/documentation/index.html)) 
-- [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
+- [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring interoperable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** ([GitHub](https://github.com/AleoHQ)) 
 - [Namada](https://namada.net) - Interchain Privacy ([Specs](https://specs.namada.net))  
-- [MACI](https://privacy-scaling-explorations.github.io/maci/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-ethereum/maci))
+- [MACI](https://maci.pse.dev/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-ethereum/maci))
 - [Hush](https://hush.is) - Hush Smart Chains allow anyone to create their own independent, private by default blockchain ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush-smart-chains)) 
 
 ## Wallet
@@ -193,7 +193,7 @@
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 - [Demox labs](https://www.demoxlabs.xyz) - Building privacy preserving ZK infrastructure on Aleo.
-- [Electric Coin. Co](https://electriccoin.co/research-and-development/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
+- [Electric Coin. Co](https://electriccoin.co/blog/ecc-scaling-research-2019-research-development-milestones/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
 - [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
 - [ChainSafe](https://chainsafe.io) - a leading blockchain R&D firm, specializing in protocol engineering, cross-chain interoperability & web3 gaming.
